@@ -1,2 +1,39 @@
-# Signals-And-Systems
-Course materials and programming solutions for Signals and Systems, including resources from Prof. Haoji Hu (ZJU) and UC Berkeley EE120.
+# Signals-And-Systems 
+
+这个仓库包含了我在学习**信号与系统 (Signals and Systems)** 过程中使用过的全部课程资料和编程作业。
+
+内容主要涵盖两门核心课程：
+
+1.  **浙江大学** 信息与电子工程学院（ISEE）胡浩基教授的信号与系统课程。
+2.  **UC Berkeley** (加州大学伯克利分校) 的经典课程 **EE120**。
+
+---
+
+
+### 1. 浙江大学 信号与系统 (胡浩基教授)
+
+#### 课程简介：
+
+> **本课程的特色是：对理论有严格的推导，着重于理论和实践的结合；注意一维信号和二维信号相结合；用实践和理论统一离散和连续信号的知识体系；给了较多matlab编程训练。**
+
+
+* **授课老师：** [胡浩基 副教授](https://person.zju.edu.cn/huhaoji#0)
+* **课程链接：** https://www.bilibili.com/video/BV1g94y1Q76G/
+* **项目地址：** https://github.com/VipaiLab/Signals-and-Systems-course
+* **编程语言：** MATLAB
+
+---
+
+### 2. UC Berkeley EE120: Signals and Systems
+
+#### 课程简介：
+
+> EE120 侧重于连续和离散时间变换分析技术及其在实际中的应用。主要内容涵盖线性时不变系统（LTI）、传递函数、傅里叶级数、傅里叶变换、拉普拉斯和 Z 变换。课程的一大亮点是通过 **Jupyter Notebook Lab** 将理论与实际编程相结合。
+
+>这门课最精华的部分就是 6 个超有趣的编程作业了，会让你用 Python 通过学习到的信号与系统的理论知识，解决各类实际问题。例如 lab3 会让你实现 FFT 算法，并和 Numpy 的官方实现进行性能对比；lab4 会通过分析手指头的影像数据推断心率；lab5 就更牛了，会让你给哈勃望远镜拍到的照片进行降噪处理，恢复绚烂清晰的星空；lab6 会让你构造一个反馈系统，平衡小车上的细杆。
+
+
+* **课程部门：** EECS (电子工程与计算机科学)
+* **课程网站：** https://inst.eecs.berkeley.edu/~ee120/fa19/
+* **先修要求：** CS61A, CS70，微积分，线性代数
+* **编程语言：** Python
